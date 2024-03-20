@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'locallibrary.wsgi.application'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
 DATABASES = {
-    'default': dj_database_url.parse("postgresql://libreria_owner:************@ep-small-paper-a2cmu0af.eu-central-1.aws.neon.tech/libreria?sslmode=require", conn_max_age=600),
+    'default': dj_database_url.parse("postgresql://libreria_owner:uQnix2hYt4lp@ep-small-paper-a2cmu0af.eu-central-1.aws.neon.tech/libreria?sslmode=require", conn_max_age=600),
 }
 
 
