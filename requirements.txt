@@ -1,4 +1,4 @@
-asgief==3.7.2
+asgiref==3.7.2
 Brotli==1.0.9
 coverage==6.4.3
 dj-database-url==2.1.0
